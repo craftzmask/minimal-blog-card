@@ -29,6 +29,7 @@ img {
   background-color: #fff;
   padding: 16px;
   border-start-start-radius: 10px;
+  border-start-end-radius: 10px;
   box-shadow: 0px 30px 100px 0px rgba(17, 23, 41, 0.05);
 }
 
@@ -57,6 +58,7 @@ img {
 
 .card-footer {
   border-end-end-radius: 10px;
+  border-end-start-radius: 10px;
   background-color: #fff;
   border-top: 1px solid #e5eaf0;
   font-size: 12px;
